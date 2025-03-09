@@ -46,6 +46,23 @@ export const projects: Project[] = [
     githubLink: 'https://github.com/code-with-niranjan-v/MySocialApp/tree/main',
     technologies: ['Android Development','Kotlin', 'ExoPlayer','Firbase','Coroutines','MVVM']
   },
+  {
+    id: 'Medium-clone',
+    name: 'Echowrite',
+    description: 'EchosWrite is a modern blogging platform engineered for efficiency and performance, featuring a robust backend powered by Hono, Prisma (with Accelerator), and PostgreSQL for optimized data management, coupled with a responsive React frontend for a seamless user experience, and fortified by Zod for stringent input validation, ensuring data integrity and rapid content delivery.',
+    thumbnail: 'https://raw.githubusercontent.com/code-with-niranjan-v/medium/refs/heads/master/ScreenShots/Screenshot%202025-03-09%20235130.png',
+    category: 'web',
+    screenshots: [
+      'https://raw.githubusercontent.com/code-with-niranjan-v/medium/refs/heads/master/ScreenShots/Screenshot%202025-03-09%20235130.png',
+      'https://raw.githubusercontent.com/code-with-niranjan-v/medium/refs/heads/master/ScreenShots/Screenshot%202025-03-09%20235146.png',
+      'https://raw.githubusercontent.com/code-with-niranjan-v/medium/refs/heads/master/ScreenShots/Screenshot%202025-03-09%20235222.png',
+      'https://raw.githubusercontent.com/code-with-niranjan-v/medium/refs/heads/master/ScreenShots/Screenshot%202025-03-09%20235253.png',
+      'https://raw.githubusercontent.com/code-with-niranjan-v/medium/refs/heads/master/ScreenShots/Screenshot%202025-03-09%20235332.png',
+
+    ],
+    githubLink: 'https://github.com/code-with-niranjan-v/MySocialApp/tree/main',
+    technologies: ['Web Development','Hono', 'Prisma', 'Prisma Accelerator', 'PostgreSQL', 'React', 'Zod', 'TypeScript', 'Tailwind CSS']
+  }
   // {
   //   id: 'smart-fit',
   //   name: 'SmartFit',
