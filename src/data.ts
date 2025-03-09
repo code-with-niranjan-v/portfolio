@@ -60,7 +60,7 @@ export const projects: Project[] = [
       'https://raw.githubusercontent.com/code-with-niranjan-v/medium/refs/heads/master/ScreenShots/Screenshot%202025-03-09%20235332.png',
 
     ],
-    githubLink: 'https://github.com/code-with-niranjan-v/MySocialApp/tree/main',
+    githubLink: 'https://github.com/code-with-niranjan-v/medium',
     technologies: ['Web Development','Hono', 'Prisma', 'Prisma Accelerator', 'PostgreSQL', 'React', 'Zod', 'TypeScript', 'Tailwind CSS']
   }
   // {
